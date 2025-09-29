@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=SheikhAminul&project=ChatGPT-voice-control&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 ## [Voice Control for OpenAI ChatGPT](https://chrome.google.com/webstore/detail/baahncfnjojaofhdmdfkpeadigoemkif)
 
 Have voice conversations with ChatGPT! Voice control for ChatGPT. Talk to ChatGPT and hear ChatGPT's responses in a natural voice.
